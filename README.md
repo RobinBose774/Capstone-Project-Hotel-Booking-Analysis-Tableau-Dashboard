@@ -1,4 +1,5 @@
 # Capstone-Project-Hotel-Booking-Analysis-Tableau-Dashboard
+**AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/46005960429058)
 ## Tableau Dashboard
 
 This project is to create an interactive Tableau dashboard to visually represent the insights gained from the analysis. You can explore the dashboard to gain a deeper understanding of the data and findings.
